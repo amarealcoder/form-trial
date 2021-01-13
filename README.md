@@ -1,1 +1,1 @@
-# form-trial
+This is a form created with html and css. It is made to submit and redirect to the confirmation page named "thanks.html" in the folder.
